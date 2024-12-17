@@ -64,5 +64,6 @@
     "@types/react-bootstrap": "^0.32.37",
     "@types/react-helmet": "^6.1.11",
     "@types/simplebar": "^5.3.3"
-  }
+  },
+  "build": "PUBLIC_URL=https://ariaelezi.github.io/bbt react-scripts build"
 }
